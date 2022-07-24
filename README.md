@@ -1,0 +1,1 @@
+A java library for generation of all possible k combinations given a generic collection/array
